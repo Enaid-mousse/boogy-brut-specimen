@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Boogy Brut WEBL';
+    src: url('BoogyBrutWEBL-Medium.eot');
+    src: url('BoogyBrutWEBL-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWEBL-Medium.woff2') format('woff2'),
+        url('BoogyBrutWEBL-Medium.woff') format('woff'),
+        url('BoogyBrutWEBL-Medium.ttf') format('truetype'),
+        url('BoogyBrutWEBL-Medium.svg#BoogyBrutWEBL-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut Poster WBL';
+    src: url('BoogyBrutPosterWEBL-Black.eot');
+    src: url('BoogyBrutPosterWEBL-Black.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutPosterWEBL-Black.woff2') format('woff2'),
+        url('BoogyBrutPosterWEBL-Black.woff') format('woff'),
+        url('BoogyBrutPosterWEBL-Black.ttf') format('truetype'),
+        url('BoogyBrutPosterWEBL-Black.svg#BoogyBrutPosterWEBL-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut Poster WBL White';
+    src: url('BoogyBrutPosterWEBL-White.eot');
+    src: url('BoogyBrutPosterWEBL-White.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutPosterWEBL-White.woff2') format('woff2'),
+        url('BoogyBrutPosterWEBL-White.woff') format('woff'),
+        url('BoogyBrutPosterWEBL-White.ttf') format('truetype'),
+        url('BoogyBrutPosterWEBL-White.svg#BoogyBrutPosterWEBL-White') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut WEBL';
+    src: url('BoogyBrutWEBL-Regular.eot');
+    src: url('BoogyBrutWEBL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWEBL-Regular.woff2') format('woff2'),
+        url('BoogyBrutWEBL-Regular.woff') format('woff'),
+        url('BoogyBrutWEBL-Regular.ttf') format('truetype'),
+        url('BoogyBrutWEBL-Regular.svg#BoogyBrutWEBL-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut WEBL Book';
+    src: url('BoogyBrutWEBL-Book.eot');
+    src: url('BoogyBrutWEBL-Book.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWEBL-Book.woff2') format('woff2'),
+        url('BoogyBrutWEBL-Book.woff') format('woff'),
+        url('BoogyBrutWEBL-Book.ttf') format('truetype'),
+        url('BoogyBrutWEBL-Book.svg#BoogyBrutWEBL-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut Wild WEBL';
+    src: url('BoogyBrutWildWEBL-Black.eot');
+    src: url('BoogyBrutWildWEBL-Black.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWildWEBL-Black.woff2') format('woff2'),
+        url('BoogyBrutWildWEBL-Black.woff') format('woff'),
+        url('BoogyBrutWildWEBL-Black.ttf') format('truetype'),
+        url('BoogyBrutWildWEBL-Black.svg#BoogyBrutWildWEBL-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut WEBL';
+    src: url('BoogyBrutWEBL-Light.eot');
+    src: url('BoogyBrutWEBL-Light.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWEBL-Light.woff2') format('woff2'),
+        url('BoogyBrutWEBL-Light.woff') format('woff'),
+        url('BoogyBrutWEBL-Light.ttf') format('truetype'),
+        url('BoogyBrutWEBL-Light.svg#BoogyBrutWEBL-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut Wild WEBL White';
+    src: url('BoogyBrutWildWEBL-White.eot');
+    src: url('BoogyBrutWildWEBL-White.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWildWEBL-White.woff2') format('woff2'),
+        url('BoogyBrutWildWEBL-White.woff') format('woff'),
+        url('BoogyBrutWildWEBL-White.ttf') format('truetype'),
+        url('BoogyBrutWildWEBL-White.svg#BoogyBrutWildWEBL-White') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Boogy Brut WEBL';
+    src: url('BoogyBrutWEBL-Bold.eot');
+    src: url('BoogyBrutWEBL-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BoogyBrutWEBL-Bold.woff2') format('woff2'),
+        url('BoogyBrutWEBL-Bold.woff') format('woff'),
+        url('BoogyBrutWEBL-Bold.ttf') format('truetype'),
+        url('BoogyBrutWEBL-Bold.svg#BoogyBrutWEBL-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,167 @@
+@font-face {
+    font-family: "Boogy Brut Light";
+    src: url("fonts/woff/BoogyBrutWEBL-Light.woff") format("woff");
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: "Boogy Brut Book";
+    src: url(fonts/woff/BoogyBrutWEBL-Book.woff) format("woff");
+    font-weight: initial; 
+}
+    
+@font-face {
+    font-family: "Boogy Brut Regular";
+    src: url(fonts/woff/BoogyBrutWEBL-Regular.woff) format("woff");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Boogy Brut Medium";
+    src: url(fonts/woff/BoogyBrutWEBL-Medium.woff) format("woff");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Boogy Brut Bold";
+    src: url(fonts/woff/BoogyBrutWEBL-Bold.woff) format("woff");
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: "Boogy Brut Poster Black";
+    src: url(fonts/woff/BoogyBrutPosterWEBL-Black.woff) format("woff");
+    font-weight: bolder;
+}
+
+@font-face {
+    font-family: "Boogy Brut Poster White";
+    src: url(fonts/woff/BoogyBrutPosterWEBL-White.woff) format("woff");
+    font-weight: lighter;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Boogy Brut Regular', serif;
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.section {
+    width: 100%;
+    padding: 40px;
+}
+
+.bgwhite {
+    background-color: white;
+    color: black;
+}
+
+.bgblack {
+    background-color: black;
+    color: white;
+}
+
+.containerwithline {
+    padding-left: 80px;
+    margin-top: 40px;
+}
+
+.bgwhite .containerwithline {
+    border-left: 1px solid black;
+}
+
+.bgblack .containerwithline {
+    border-left: 1px solid white;
+}
+
+.colorblue {
+    color: blue;
+}
+
+.fontsize20 {
+    font-size: 20px;
+}
+
+.boogybrutposterwhite {
+    font-family: 'Boogy Brut Poster White';
+}
+
+.boogybrutposterblack {
+    font-family: 'Boogy Brut Poster Black';
+}
+
+.boogybrutbook {
+    font-family: 'Boogy Brut Book';
+}
+
+.boogybrutbold {
+    font-family: 'Boogy Brut Bold';
+}
+
+.boogybrutregular {
+    font-family: 'Boogy Brut Regular';
+}
+
+.boogybrutmedium {
+    font-family: 'Boogy Brut Medium';
+}
+
+.boogybrutlight {
+    font-family: 'Boogy Brut Light';
+}
+
+
+
+.planche1 {
+    font-family: 'Boogy Brut Poster White';
+    font-size: 100px;
+}
+
+.planche2a {
+    font-family: 'Boogy Brut Book';
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.planche2b {
+    font-family: 'Boogy Brut Bold';
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.planche3 {
+    font-size: 60px;
+}
+
+.planche4 {
+    font-family: 'BoogyBrutWEBL-Light';
+    font-size: 80px;
+}
+
+.planche5 {
+    font-family: 'BoogyBrutWEBL-Regular';
+    font-size: 80px;
+}
+
+.colorglyphsblue {
+    color: blue;
+}
+
+.planche5 :hover {
+    color: white;
+}
+
+.videocontainer1 video{
+    width: 100%;
+}
+
+.videocontainer2 video{
+    width: 100%;
+}
